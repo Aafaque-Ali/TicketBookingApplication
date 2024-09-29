@@ -7,6 +7,6 @@
 4) mysql-connector-j
 
 
-5) spring-boot-devtools
-6) lombok
+5) spring-boot-devtools    (non-primary dependency)
+6) lombok    (non-primary dependency)
 

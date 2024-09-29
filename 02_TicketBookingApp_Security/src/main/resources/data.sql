@@ -1,0 +1,5 @@
+INSERT INTO ticket (ticket_id, destination_station, email, passenger_name, source_station) VALUES (1, "Delhi", "rahul@gmail.com", "Rahul", "Nagpur")
+INSERT INTO ticket (ticket_id, destination_station, email, passenger_name, source_station) VALUES (2, "Mumbai", "parekh@gmail.com", "Parekh", "Nagpur")
+INSERT INTO ticket (ticket_id, destination_station, email, passenger_name, source_station) VALUES (3, "London", "virat@gmail.com", "Virat", "Mumbai")
+INSERT INTO ticket (ticket_id, destination_station, email, passenger_name, source_station) VALUES (4, "Nagpur", "sachin@gmail.com", "Sachin", "Chennai")
+INSERT INTO ticket (ticket_id, destination_station, email, passenger_name, source_station) VALUES (5, "New York", "dhoni@gmail.com", "Mahendra", "Delhi")
